@@ -23,4 +23,4 @@ LifeLog
 https://stgcalomama.page.link/insurance?screen=lifelog-history
 
 Meal
-https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-03-03
+https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-04-04
