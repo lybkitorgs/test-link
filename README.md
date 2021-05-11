@@ -16,4 +16,4 @@ https://stgcalomama.page.link/insurance?screen=timeline
 LifeLog
 https://stgcalomama.page.link/insurance?screen=lifelog-history
 Meal
-https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-01
+https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-11
