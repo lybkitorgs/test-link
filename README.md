@@ -7,7 +7,7 @@ Health
 https://stgcalomama.page.link/insurance?screen=health-input&date=2021-04-12
 Graph
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-05-02&item=weight
-https://stgcalomama.page.link/insurance?screen=graph&date=2021-01-22&item=intake_calories
+https://stgcalomama.page.link/insurance?screen=graph&date=2021-03-22&item=intake_calories
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-02-15&item=burned_calories
 Medicine
 https://stgcalomama.page.link/insurance?screen=medicine-hospital-reminder
