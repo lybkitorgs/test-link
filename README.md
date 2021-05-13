@@ -4,7 +4,7 @@ https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-04
 Profile
 https://stgcalomama.page.link/insurance?screen=profile-setting
 Health
-https://stgcalomama.page.link/insurance?screen=health-input&date=2021-05-13
+https://stgcalomama.page.link/insurance?screen=health-input&date=2021-05-05
 Graph
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-05-13&item=weight
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-05-13&item=intake_calories
