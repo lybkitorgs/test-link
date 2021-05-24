@@ -23,3 +23,6 @@ https://stgcalomama.page.link/d2d_dev?returnUrl=https%3A%2F%2Fdot2dot.life%2Fslp
 https://stgcalomama.page.link/d2d?returnUrl=https%3A%2F%2Fdot2dot.life%2Fslp-trial%2Fservice%2F9c526fc4fd134ccc93d31f22852e887a%2Ffinish
 
 https://dot2dot.life/slp-trial/m/home
+
+
+test appp covid: https://stgcalomama.page.link/body-temperature-sharing
