@@ -60,3 +60,4 @@ https://dot2dot.life/slp-trial/m/home
 > https://stgcalomama.page.link/insurance?screen=lifelog-history
 > 
 
+<a href="cmplus:back-to-menu">Back Button</a>
