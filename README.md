@@ -1,9 +1,9 @@
 
 
 # HDB: 
-> https://stgcalomama.lybkit/not-connect-hdb
+> https://stgcalomama.lybkit/not-connect-hdb?abcd=askdnasd
 > 
-> https://stgcalomama.lybkit/not-yet-share-data-hdb
+> https://stgcalomama.lybkit/not-yet-share-data-hdb?asidjasid=asdasd
 > 
 > https://stgcalomama.lybkit/error
 
