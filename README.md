@@ -6,6 +6,11 @@
 > https://stgcalomama.lybkit/v1/health-bank/completed-linkage?assad=asdsad
 > 
 > https://stgcalomama.lybkit/error
+>
+> https://stg-cmplus-api-1-cognito.stg-kawaru.jp/api/v1/completed-linkage
+>
+> https://stg-cmplus-api-1-cognito.stg-kawaru.jp/api/v1/agreed
+
 
 # 
 # 
