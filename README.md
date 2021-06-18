@@ -61,3 +61,7 @@ https://dot2dot.life/slp-trial/m/home
 > 
 
 <a href="cmplus:back-to-menu">Back Button</a>
+
+> https://stgcalomama.lybkit/not-connect-hdb
+> https://stgcalomama.lybkit/not-yet-share-data-hdb
+
