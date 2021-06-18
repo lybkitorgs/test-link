@@ -1,20 +1,40 @@
 
-https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-04
 
+# HDB: 
+> https://stgcalomama.lybkit/not-connect-hdb
+> 
+> https://stgcalomama.lybkit/not-yet-share-data-hdb
+> 
+> https://stgcalomama.lybkit/error
+
+# 
+# 
+# 
+
+https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-04
+>
 Profile
 https://stgcalomama.page.link/insurance?screen=profile-setting
+>
 Health
 https://stgcalomama.page.link/insurance?screen=health-input&date=2021-06-08
+>
 Graph
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-06-08&item=weight
+>
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-06-08&item=intake_calories
+>
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-06-08&item=burned_calories
+>
 Medicine
 https://stgcalomama.page.link/insurance?screen=medicine-hospital-reminder
+>
 TimeLine
 https://stgcalomama.page.link/insurance?screen=timeline
+>
 LifeLog
 https://stgcalomama.page.link/insurance?screen=lifelog-history
+>
 Meal
 https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-06-08
 
@@ -60,10 +80,4 @@ https://dot2dot.life/slp-trial/m/home
 > https://stgcalomama.page.link/insurance?screen=lifelog-history
 > 
 
-# HDB: 
-> https://stgcalomama.lybkit/not-connect-hdb
-> 
-> https://stgcalomama.lybkit/not-yet-share-data-hdb
-> 
-> https://stgcalomama.lybkit/error
 
