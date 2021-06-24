@@ -11,7 +11,7 @@
 >
 > https://stg-cmplus-api-1-cognito.stg-kawaru.jp/api/v1/agreed
 >
-> cmplus://back-to-top-health-check
+> https://goole.com/?a=cmplus:back-to-top-health-check
 >
 > https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam
 >
