@@ -62,6 +62,7 @@ https://dot2dot.life/slp-trial/m/home
 # test appp covid: 
 > https://stgcalomama.page.link/body-temperature-sharing
 > 
+
 # Health:
 > ❌: https://stgcalomama.page.link/insurance?screen=health-input&date=2022-01-18
 > 
@@ -92,6 +93,42 @@ https://dot2dot.life/slp-trial/m/home
 > 
 # LifeLog: 
 > https://stgcalomama.page.link/insurance?screen=lifelog-history
+> 
+
+# Pro
+####
+###
+
+# Health:
+> ❌: https://calomama.page.link/insurance?screen=health-input&date=2022-01-18
+> 
+> ✅: https://calomama.page.link/insurance?screen=health-input&date=2021-01-25
+# Meal: 
+> ❌: https://calomama.page.link/insurance?screen=select-meal&date=2021-11-18
+> 
+> ✅: https://calomama.page.link/insurance?screen=select-meal&date=2021-05-20
+# Profile: 
+> https://calomama.page.link/insurance?screen=profile-setting
+> 
+# Timeline: 
+> https://calomama.page.link/insurance?screen=timeline
+> 
+# Graph:
+> ❌: https://calomama.page.link/insurance?screen=graph&date=2021-06-18&item=weight
+> 
+> ✅: https://calomama.page.link/insurance?screen=graph&date=2021-05-18&item=weight
+> 
+> ✅: https://calomama.page.link/insurance?screen=graph&date=2021-05-18&item=intake_calories
+> 
+> ✅: https://calomama.page.link/insurance?screen=graph&date=2021-05-19&item=intake_calories
+> 
+> ✅: https://calomama.page.link/insurance?screen=graph&date=2020-09-08&item=burned_calories
+> 
+# Medicine: 
+> https://calomama.page.link/insurance?screen=medicine-hospital-reminder
+> 
+# LifeLog: 
+> https://calomama.page.link/insurance?screen=lifelog-history
 > 
 
 
