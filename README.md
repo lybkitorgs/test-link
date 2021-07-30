@@ -1,8 +1,4 @@
-# linkagesettings: 
-> https://stgcalomama.page.link/cm?screen=linkagesettings
-# 
-# 
-# 
+
 
 # HDB: 
 > https://stgcalomama.lybkit/v1/health-bank/agreed?aabc=aaa
@@ -27,6 +23,7 @@
 # 
 # 
 https://stgcalomama.page.link/cm?screen=linkagesettings
+>
 >
 https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-05-04
 >
