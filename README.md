@@ -1,4 +1,8 @@
-
+# HDB: 
+> https://stgcalomama.page.link/cm?screen=linkagesettings
+# 
+# 
+# 
 
 # HDB: 
 > https://stgcalomama.lybkit/v1/health-bank/agreed?aabc=aaa
