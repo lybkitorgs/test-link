@@ -139,5 +139,7 @@ https://dot2dot.life/slp-trial/m/home
 > 
 #
 #
+# Link Dynamic for Knavi
+> https://karadakawarunavidynamiclinks.page.link/dynamic
 ###
 ###
