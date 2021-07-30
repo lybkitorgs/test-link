@@ -1,4 +1,4 @@
-# HDB: 
+# linkagesettings: 
 > https://stgcalomama.page.link/cm?screen=linkagesettings
 # 
 # 
