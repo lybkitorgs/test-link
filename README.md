@@ -116,7 +116,10 @@ https://dot2dot.life/slp-trial/m/home
 > ✅: https://calomama.page.link/insurance?screen=select-meal&date=2021-05-20
 # Profile: 
 > https://calomama.page.link/insurance?screen=profile-setting
-> 
+>
+# Device Connection
+> https://calomama.page.link/cm?screen=linkagesettings
+>
 # Timeline: 
 > https://calomama.page.link/insurance?screen=timeline
 > 
