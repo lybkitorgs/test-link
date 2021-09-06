@@ -31,14 +31,14 @@ Profile
 https://stgcalomama.page.link/insurance?screen=profile-setting
 >
 Health
-https://stgcalomama.page.link/insurance?screen=health-input&date=2021-09-06
+https://stgcalomama.page.link/insurance?screen=health-input&date=2021-09-16
 >
 Graph
-https://stgcalomama.page.link/insurance?screen=graph&date=2021-09-08&item=weight
+https://stgcalomama.page.link/insurance?screen=graph&date=2021-11-08&item=weight
 >
-https://stgcalomama.page.link/insurance?screen=graph&date=2021-09-06&item=intake_calories
+https://stgcalomama.page.link/insurance?screen=graph&date=2022-09-06&item=intake_calories
 >
-https://stgcalomama.page.link/insurance?screen=graph&date=2021-08-08&item=burned_calories
+https://stgcalomama.page.link/insurance?screen=graph&date=2020-08-08&item=burned_calories
 >
 Medicine
 https://stgcalomama.page.link/insurance?screen=medicine-hospital-reminder
@@ -50,7 +50,7 @@ LifeLog
 https://stgcalomama.page.link/insurance?screen=lifelog-history
 >
 Meal
-https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-09-06
+https://stgcalomama.page.link/insurance?screen=select-meal&date=2021-12-06
 
 https://stgcalomama.page.link/d2d_dev?returnUrl=https%3A%2F%2Fdot2dot.life%2Fslp-trial%2Fservice%2F9c526fc4fd134ccc93d31f22852e887a%2Ffinish
 
