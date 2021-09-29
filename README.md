@@ -36,7 +36,7 @@ https://stgcalomama.page.link/insurance?screen=health-input&date=2021-09-16
 Graph
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-09-22&item=weight
 >
-https://stgcalomama.page.link/insurance?screen=graph&date=2021-09-30&item=intake_calories
+https://stgcalomama.page.link/insurance?screen=graph&date=2021-08-30&item=intake_calories
 >
 https://stgcalomama.page.link/insurance?screen=graph&date=2021-02-16&item=burned_calories
 >
