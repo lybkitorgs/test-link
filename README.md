@@ -21,7 +21,7 @@
 
 # 
 # 
-# 
+# STG
 https://stgcalomama.page.link/cm?screen=linkagesettings
 >
 >
