@@ -27,3 +27,4 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/hc/a/1?c
 https://github.com/lybkit9x/test-dynamic-link/tree/main/hc/a/1?d
 https://github.com/lybkit9x/test-dynamic-link/tree/main/hc/a/11?d
 
+https://github.com/lybkit9x/test-dynamic-link/tree/main/hc/a
