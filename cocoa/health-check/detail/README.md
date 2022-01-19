@@ -6,26 +6,26 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/camera
 # manual
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/manual
 
-# heatlh-check
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check
+# health-check
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/1-input-top
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/1-input-top
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/2-qa
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/2-qa
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/3-glossary
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/3-glossary
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/detail
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/detail
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/popup
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/popup
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/present
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/present
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/present-push
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/present-push
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/some
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/some
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/heatlh-check/graph
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/graph
 
 
 # hdb
