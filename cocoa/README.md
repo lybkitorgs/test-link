@@ -14,6 +14,8 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/manual
 # health-check
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/main
 
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/empty-data
+
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/1-input-top
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/2-qa
