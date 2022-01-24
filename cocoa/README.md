@@ -22,6 +22,10 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/2-qa
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/3-glossary
 
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/3-glossary/detail-item
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/3-glossary/detail-disease
+
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/detail
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/health-check/popup
