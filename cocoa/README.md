@@ -13,6 +13,15 @@ https://github.com/api/v3/health-check-log
 
 https://api.stg-kawaru.jp/api/v2/toshiba/status
 
+https://api.stg-kawaru.jp/api/v2/toshiba/service-linkage/test
+
+https://api.stg-kawaru.jp/api/v2/toshiba/disease-risk/test
+
+https://api.stg-kawaru.jp/api/v2/toshiba/disease-risk-graph/test
+
+https://api.stg-kawaru.jp/api/v2/toshiba/set-target-risk/test
+
+https://api.stg-kawaru.jp/api/v2/toshiba/improve-risk/test
     
 # PHR:
 planetid://auth
