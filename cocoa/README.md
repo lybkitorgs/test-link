@@ -11,6 +11,8 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/imp
 
 https://github.com/api/v3/health-check-log
 
+https://api.stg-kawaru.jp/api/v2/toshiba/status
+
     
 # PHR:
 planetid://auth
