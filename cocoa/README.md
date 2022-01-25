@@ -1,3 +1,15 @@
+# toshi
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/aa
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk/aa
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk-graph/aa
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/set-target-risk/aa
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/improve-risk/aa
+
+    
 # PHR:
 planetid://auth
 
