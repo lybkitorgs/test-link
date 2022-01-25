@@ -9,6 +9,8 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/set
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/improve-risk/aa
 
+https://github.com/api/v3/health-check-log
+
     
 # PHR:
 planetid://auth
