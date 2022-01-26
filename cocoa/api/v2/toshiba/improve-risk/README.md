@@ -1,13 +1,29 @@
 # toshi
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage
 
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/54321
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/12345
+
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk/12345
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk/54321
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk-graph
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/set-target-risk
 
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/set-target-risk/12345
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/set-target-risk/54321
+
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/improve-risk
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/improve-risk/12345
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/improve-risk/54321
 
 https://github.com/api/v3/health-check-log
 
