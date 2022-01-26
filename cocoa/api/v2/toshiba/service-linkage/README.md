@@ -3,7 +3,9 @@ https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/ser
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/54321
 
-https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/12345
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/54321?asdadad
+
+https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/service-linkage/12345?asdad
 
 https://github.com/lybkit9x/test-dynamic-link/tree/main/cocoa/api/v2/toshiba/disease-risk
 
