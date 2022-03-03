@@ -1,3 +1,45 @@
+# ABCD:
+> https://stgcalomama.page.link/cm?screen=timeline
+> 
+> https://stgcalomama.page.link/cm?screen=select-meal
+> 
+> https://stgcalomama.page.link/cm?screen=health-input
+> 
+> https://stgcalomama.page.link/cm?screen=activity-input
+> 
+> https://stgcalomama.page.link/cm?screen=sleep-input
+> 
+> https://stgcalomama.page.link/cm?screen=feeling-input
+
+#
+#
+
+> https://stgcalomama.page.link/cm?screen=timeline
+> 
+> https://stgcalomama.page.link/cm?screen=select-meal&date=2021-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=health-input&date=2021-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=activity-input&date=2021-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=sleep-input&date=2021-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=feeling-input&date=2021-01-02
+
+#
+#
+> https://stgcalomama.page.link/cm?screen=timeline
+> 
+> https://stgcalomama.page.link/cm?screen=select-meal&date=2023-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=health-input&date=2023-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=activity-input&date=2023-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=sleep-input&date=2023-01-02
+> 
+> https://stgcalomama.page.link/cm?screen=feeling-input&date=2023-01-02
+
 
 
 # HDB: 
