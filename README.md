@@ -16,15 +16,15 @@
 
 > https://stgcalomama.page.link/cm?screen=timeline
 > 
-> https://stgcalomama.page.link/cm?screen=select-meal&date=2022-03-24
+> https://stgcalomama.page.link/cm?screen=select-meal&date=2022-03-23
 > 
-> https://stgcalomama.page.link/cm?screen=health-input&date=2022-03-24
+> https://stgcalomama.page.link/cm?screen=health-input&date=2022-03-23
 > 
-> https://stgcalomama.page.link/cm?screen=activity-input&date=2022-03-24
+> https://stgcalomama.page.link/cm?screen=activity-input&date=2022-03-23
 > 
-> https://stgcalomama.page.link/cm?screen=sleep-input&date=2022-03-24
+> https://stgcalomama.page.link/cm?screen=sleep-input&date=2022-03-23
 > 
-> https://stgcalomama.page.link/cm?screen=feeling-input&date=2022-03-24
+> https://stgcalomama.page.link/cm?screen=feeling-input&date=2022-03-23
 
 #
 #
