@@ -1,4 +1,6 @@
 # ABCD:
+> https://stgcalomama.page.link/cm?screen=smartreceipt
+> 
 > https://stgcalomama.page.link/cm?screen=timeline
 > 
 > https://stgcalomama.page.link/cm?screen=select-meal
