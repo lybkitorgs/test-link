@@ -1,4 +1,6 @@
 # ABCD:
+> https://itunes.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko!/id768455882?mt=8
+>
 > https://apps.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko/id768455882
 >
 > https://stgcalomama.page.link/cm?screen=smartreceipt&&client_id=4algv068np92tq5qdpmnd40688&&state=97147a45-f5a2-4d8f-b665-361ab40e39e8-5703920&&consentlink_status=OK&&consumer_user_id=1e04bd4b-220e-4edf-b28d-5a094718812f
