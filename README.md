@@ -1,4 +1,6 @@
 # ABCD:
+> itms-apps://itunes.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko!/id768455882?mt=8
+>
 > https://itunes.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko!/id768455882?mt=8
 >
 > https://apps.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko/id768455882
