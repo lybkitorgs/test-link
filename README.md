@@ -1,3 +1,6 @@
+>  https://calomama.page.link/insurance?screen=select-meal&date=2022-11-08
+
+
 # ABCD:
 > itms-apps://itunes.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko!/id768455882?mt=8
 >
