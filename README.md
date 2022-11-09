@@ -1,5 +1,7 @@
 >  https://calomama.page.link/insurance
 
+>  https://stgcalomama.page.link/insurance
+
 
 # ABCD:
 > itms-apps://itunes.apple.com/jp/app/sumatoreshito-dian-zireshitodeeko!/id768455882?mt=8
