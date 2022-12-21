@@ -2,9 +2,9 @@
 
 >  https://stgcalomama.page.link/insurance
 
->  https://stgcalomama.page.link/insurance?screen=select-meal&date=2022-11-11
+>  https://stgcalomama.page.link/insurance?screen=select-meal&date=2022-12-17
 
->  https://calomama.page.link/insurance?screen=select-meal&date=2022-11-11
+>  https://calomama.page.link/insurance?screen=select-meal&date=2022-12-17
 
 >  https://stgcalomama.page.link/supporter?invitation_code_7=2049537
 
